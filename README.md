@@ -9,6 +9,6 @@ Students are expected to:
 Student Info
 =========================
 
-* Student Name: Luu Nguyen Tien Anh ICT 
+* Student Name: Luu Nguyen Tien Anh
 * Student ID: 23BI14010
 
