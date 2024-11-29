@@ -9,6 +9,6 @@ Students are expected to:
 Student Info
 =========================
 
-* Student Name: USTH ICT1 
-* Student ID: Not-Vietnamese
+* Student Name: Luu Nguyen Tien Anh ICT 
+* Student ID: 23BI14010
 
